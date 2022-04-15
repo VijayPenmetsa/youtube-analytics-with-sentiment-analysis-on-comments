@@ -6,7 +6,10 @@ For this project we’re going to be utilizing **Youtube Data API V3**, which al
 
 ## Files
 **youtube_analytics.ipynb** This notebook contains all the code.
+
 **vdoLinks.csv** contains youtubeIDs of over 25000 videos. We use these IDs to retrieve data of the corresponding videos.
+
+**youtube_data** containts a checkpoint of all the retrieved data.
 
 ## Data Collection
 
