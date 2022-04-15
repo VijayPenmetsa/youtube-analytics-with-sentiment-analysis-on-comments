@@ -2,7 +2,7 @@
 
 ## Introduction
 
-For this project we’re going to be utilizing **Youtube Data API V3**, which allows us to collect data from youtube. This data will help us get useful insights on the videos, such as sentiment analysis for comments, most liked video, top videos based on views, etc.
+For this project we’re going to be utilizing **Youtube Data API V3**, which allows us to collect data from youtube. This data will help us get useful insights on the videos, such as sentiment analysis (using vader) for comments, most liked video, top videos based on views, etc.
 
 ## Files
 **youtube_analytics.ipynb** This notebook contains all the code.
