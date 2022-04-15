@@ -1,4 +1,4 @@
-# youtube-analytics
+# youtube-analytics with sentiment analysis on comments
 
 ## Introduction
 
