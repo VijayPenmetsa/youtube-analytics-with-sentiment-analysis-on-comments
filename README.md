@@ -11,6 +11,9 @@ For this project we’re going to be utilizing **Youtube Data API V3**, which al
 
 **youtube_data** containts a checkpoint of all the retrieved data.
 
+This data can be obtained from the following google drive link:
+https://drive.google.com/file/d/1Yd9nZYtZowD8wTO2QOvNNAb4OHvdebkf/view?usp=sharing
+
 ## Data Collection
 
 For data collection, we are collecting _100 comments, Description of the video, View count, Like count, Dislike count, Comment count,Duration of the video, and Favourite count_ for all the videos.
