@@ -37,9 +37,9 @@ ignore them from our analysis.
 
 ### Sentiment Analysis of comments
 
-The video with highest negative comments is:
+The video with highest percentage of negative comments is:
 **Diverted (2009) Trailer**
-The video with highest positive comments is:
+The video with highest percentage of positive comments is:
 **Dangerous Game Trailer 1993**
 
 <img width="981" alt="Screen Shot 2022-04-15 at 1 21 44 AM" src="https://user-images.githubusercontent.com/50517893/163524540-5413234e-1fdc-4a1c-aa6f-9a57ae84ceb4.png">
